@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-In this demo I am going to create and manage support tickets
+In this demonstration I am going to create and manage support tickets
 <br />
 
 
